@@ -17,3 +17,5 @@ Features
 5. Dispatch Medicines by Pharmacy
 6. Manage Finance by Super Admin
 7. Manage Payments by Admin
+
+All CRUD operations on DB is done with Prepared Statement & Callable Statements.
